@@ -1,2 +1,2 @@
 # DNA-RNA_Dynamics
-Is coming the final version of the R notebook project on the methylation sites data coming from Illumina BeadChips analysis 
+Final version of the R pipeline on the methylation sites data coming from Illumina BeadChips analysis 
